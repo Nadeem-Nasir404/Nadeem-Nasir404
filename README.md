@@ -1,3 +1,21 @@
+<h1 align="center">Hey👋, I'm Nadeem Nasir</h1>
+
+###
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Nadeem-Nasir404.Nadeem-Nasir404&"  />
+</div>
+
+###
+
+<h3 align="center">👩‍💻  About Me :</h3>
+
+###
+
+<p align="left">- 🔭 I’m working as a Frontend Developer.👨🏻‍💻<br><br>- 📚 I'm currently learning React⚛.<br><br>-❓ Ask me about anything related HTML, CSS and JavaScript and related technologies<br><br>- ⚡ In my free time I read Books and watch Cricket🏏.</p>
+
+###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/inadeem-nasir" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -5,25 +23,13 @@
   <a href="https://twitter.com/Nadeemch444?t=Q69O_naB7DTDtzzQBnWJfQ&s=09" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
+  <a href="nasarnadeem31@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://www.facebook.com/chaudary.nadeem.444?mibextid=ZbWKwL" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  </a>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Nadeem-Nasir404.Nadeem-Nasir404&"  />
-</div>
-
-###
-
-<h1 align="center">Hey 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me :</h3>
-
-###
-
-<p align="left">I'm Nadeem Nasir from Pakistan,<br><br>- 🔭 I’m working as a Frontend Developer.👨🏻‍💻<br>- 📚 I'm currently learning React⚛.<br>-❓ Ask me about anything related HTML, CSS and JavaScript and related technologies<br>- ⚡ In my free time I read Books and watch Cricket🏏.</p>
 
 ###
 
@@ -62,9 +68,5 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Nadeem-Nasir404&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Nadeem-Nasir404/Nadeem-Nasir404/output/snake.svg" alt="Snake animation" />
 
 ###
