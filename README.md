@@ -8,14 +8,14 @@
 
 ###
 
-<h3 align="center">👩‍💻  About Me :</h3>
+<h3 align="left">👩‍💻  About Me :</h3>
 
 ###
 
 <p align="left">- 🔭 I’m working as a Frontend Developer.👨🏻‍💻<br><br>- 📚 I'm currently learning React⚛.<br><br>-❓ Ask me about anything related HTML, CSS and JavaScript and related technologies<br><br>- ⚡ In my free time I read Books and watch Cricket🏏.</p>
 
 ###
-
+<h3 align="left">🖇Connect with me:</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/inadeem-nasir" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
