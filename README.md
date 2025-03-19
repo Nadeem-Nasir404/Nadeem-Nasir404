@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as a Frontend Developer.👨🏻‍💻<br><br>- 📚 I'm currently learning React⚛.<br><br>-❓ Ask me about anything related HTML, CSS and JavaScript and related technologies<br><br>- ⚡ In my free time I read Books and watch Cricket🏏.</p>
+<p align="left">- 🔭 I’m working as a Frontend Developer.👨🏻‍💻<br><br>- 📚 I'm currently working on React⚛.<br><br>-❓ Ask me about anything related MERN STACK<br><br>- ⚡ In my free time I read Books and watch Cricket🏏.</p>
 
 ###
 <h3 align="left">🖇Connect with me:</h3>
